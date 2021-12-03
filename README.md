@@ -20,7 +20,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="" width="100px;" alt="Foto de Alex"/><br>
+        <img src="./Eu.jfif" width="100px;" alt="Foto de Alex"/><br>
         <sub>
           <b>Alexsandro Clemente</b>
         </sub>
